@@ -8,7 +8,7 @@
 
 - 📫 How to reach me **thananonwork@gmail.com**
 
-- ⚡ Fun fact **I think I am funny and I love to learn a new skill but I am a slow learner hahahaha**
+- **I love to learn a new skill but I am a slow learner hahahaha**
 
 <p></p>
 <p align="left">
