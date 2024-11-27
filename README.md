@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Data Engineer project**
 
-- 🌱 I’m currently learning **Cloud service,Data Engineer Skill and Machine-Learning**
+- 🌱 I’m currently learning **Cloud service,Data Engineer Skill and Machine-Learning technique**
 
 - 📫 How to reach me **thananonwork@gmail.com**
 
