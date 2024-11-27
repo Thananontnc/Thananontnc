@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Thananon Chounudom</h1>
+<h1 align="center">Hi 👋, I'm Thananon Chounudom. Just call me "Pie!" </h1>
 <h3 align="center">A passionate Data Engineer from Thailand</h3>
 
 - 🔭 I’m currently working on **Data Engineer project**
@@ -8,6 +8,10 @@
 - 📫 How to reach me **thananonwork@gmail.com**
 
 - ⚡ Fun fact **I think I am funny and I love to learn a new skill but I am a slow learner hahahaha**
+
+
+
+
 
 <p align="left">
 </p>
