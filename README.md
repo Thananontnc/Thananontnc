@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Thananon Chounudom. Just call me "Pie!" </h1>
-<h3 align="center">A passionate Data Engineer from Thailand</h3>
+<h3 align="center">A passionate Data Engineer</h3>
 
 ![Narutoeye](https://github.com/user-attachments/assets/0baa20f7-f054-4ce5-8a06-47083daf2ea8)
 - 🔭 I’m currently working on **Data Engineer project**
