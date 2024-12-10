@@ -10,10 +10,10 @@ class About_me:
         self.tools = ["Python", "SQL", "JAVA", "GCP", "AWS", "GO"]
 
     def improve(self):
-        print("Improving skills")
+        print("Improving skills 💪")
 
     def keep_going(self):
-        print("Keep going")
+        print("Keep going 🚀")
 
 if datetime.now() < datetime.now() - timedelta(days=1):
     About_me().improve()
