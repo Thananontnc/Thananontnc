@@ -1,13 +1,9 @@
 <h1 align="center">Hi 👋, I'm Thananon Chounudom. Just call me "Pie!" </h1>
 <h3 align="center">A passionate Data Engineer</h3>
 
-- 🔭 I’m currently working on **Data Engineer project**
+- I’m currently working on **Data Engineer project and Studyin about backend concept Cloud service,Data Engineer Skill and Machine-Learning technique**
 
-- 🌱 I’m currently learning **Cloud service,Data Engineer Skill and Machine-Learning technique**
-
-- 📫 How to reach me **thananonwork@gmail.com**
-
-- **I love to learn a new skill but I am a slow learner hahahaha**
+- Contact:  **thananonwork@gmail.com**
  
 <p></p>
 <p align="left">
