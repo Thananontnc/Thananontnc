@@ -1,5 +1,10 @@
 <h1 align="center">Hi 👋, I'm "Pie!" </h1>
 
+
+<h3 align="center">A passionate about Data Engineering</h3>
+<p>I’m currently working on Data Engineer project and Studying about backend development concept, Cloud services,Data Engineer Skill and Machine-Learning technique</p>
+
+* Contact:  **thananonwork@gmail.com**
 ```python
 from datetime import datetime, timedelta
 
@@ -20,10 +25,6 @@ if datetime.now() < datetime.now() - timedelta(days=1):
 else:
     About_me().keep_going()
 ```
-<h3 align="center">A passionate about Data Engineering</h3>
-<p>I’m currently working on Data Engineer project and Studying about backend development concept, Cloud services,Data Engineer Skill and Machine-Learning technique</p>
-
-* Contact:  **thananonwork@gmail.com**
 <p></p>
 <p align="left">
 </p>
