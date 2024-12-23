@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm "Pie!" </h1>
 
 
-<h3 align="center">A passionate about Data Engineering</h3>
 <p>I’m currently working on Data Engineer project and Studying about Backend development concept, Cloud services,Data Engineer Skill and Machine-Learning technique.</p>
 
 ```python
