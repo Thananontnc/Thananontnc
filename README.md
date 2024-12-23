@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm "Pie!" </h1>
 
 
-<p>I’m currently working on Data Engineer project and Studying about Backend development concept, Cloud services,Data Engineer Skill and Machine-Learning technique.</p>
+
 
 ```python
 from datetime import datetime, timedelta
@@ -26,4 +26,5 @@ else:
 <p></p>
 <p align="left">
 </p>
+<p>I’m currently working on Data Engineer project and Studying about Backend development concept, Cloud services,Data Engineer Skill and Machine-Learning technique.</p>
 Contact:  thananonwork@gmail.com
