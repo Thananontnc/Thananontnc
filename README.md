@@ -17,7 +17,7 @@ pie@github ~ % whoami
  shell   Next.js · React · Python
  uptime  building things that feel good
 ───────────────────────────────
- build   Simba Spark — Next.js senior project
+ build   Personal Portfolio Analytics Pipeline - Personal Project
  learn   system design · ABAC · data pipelines
  care    minimalist UI & clean architecture
 ───────────────────────────────
