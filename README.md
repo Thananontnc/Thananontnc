@@ -23,6 +23,7 @@ learning  · system design · ABAC · clean UI
 care      · minimalist design & working code
 ```
 
+<a href="https://github.com/Thananontnc/thx-tnc-Portfolio-V.2"><img src="https://img.shields.io/badge/portfolio-8A949E?style=flat-square&logo=vercel&logoColor=0d1117" alt="portfolio" /></a>
 <a href="mailto:thananonza123@gmail.com"><img src="https://img.shields.io/badge/email-0d1117?style=flat-square&logo=gmail&logoColor=8A949E" alt="email" /></a>
 <a href="https://github.com/Thananontnc"><img src="https://img.shields.io/badge/github-0d1117?style=flat-square&logo=github&logoColor=8A949E" alt="github" /></a>
 <img src="https://komarev.com/ghpvc/?username=Thananontnc&label=visitors&color=0d1117&style=flat-square" alt="visitors" />
@@ -47,5 +48,46 @@ care      · minimalist design & working code
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0d1117?style=flat-square&logo=postgresql&logoColor=8A949E)
 ![Git](https://img.shields.io/badge/Git-0d1117?style=flat-square&logo=git&logoColor=8A949E)
 ![Vercel](https://img.shields.io/badge/Vercel-0d1117?style=flat-square&logo=vercel&logoColor=8A949E)
+
+</div>
+
+<!-- ═══════════════════════ ROW 3 · FEATURED ═══════════════════════ -->
+###
+
+<div align="center">
+
+`~/featured`
+
+</div>
+
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
+
+**PieOS — portfolio as an OS**
+`Astro · TypeScript · Tailwind`
+
+A portfolio built as a working desktop OS. Draggable, resizable windows; dock magnification; terminal; games.
+
+[`repo ↗`](https://github.com/Thananontnc/thx-tnc-Portfolio-V.2)
+
+</td>
+<td width="50%" valign="top">
+
+**Simba Spark — senior project**
+`Next.js · Server Actions · ABAC`
+
+Full-stack app with role-based access, admin dashboards, and a minimalist redesigned UI.
+
+`in progress`
+
+</td>
+</tr>
+</table>
+
+<!-- ═══════════════════════ FOOTER ═══════════════════════ -->
+<div align="center">
+
+<sub>`ship it, then make it beautiful`</sub>
 
 </div>
