@@ -49,36 +49,3 @@ care      · minimalist design & working code
 ![Vercel](https://img.shields.io/badge/Vercel-0d1117?style=flat-square&logo=vercel&logoColor=8A949E)
 
 </div>
-
-<!-- ═══════════════════════ ROW 3 · STATS + LANGS ═══════════════════════ -->
-###
-
-<table width="100%">
-<tr>
-<td width="50%" align="center">
-
-`~/stats`
-
-<img src="https://github-readme-stats.vercel.app/api?username=Thananontnc&show_icons=true&hide_border=true&hide_title=true&bg_color=0d1117&icon_color=8A949E&text_color=8A949E&ring_color=e8f0ff&hide=contribs" alt="stats" width="100%" />
-
-</td>
-<td width="50%" align="center">
-
-`~/languages`
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thananontnc&layout=compact&hide_border=true&hide_title=true&bg_color=0d1117&text_color=8A949E&langs_count=6" alt="top langs" width="100%" />
-
-</td>
-</tr>
-</table>
-
-<!-- ═══════════════════════ ROW 4 · 3D CONTRIBUTIONS ═══════════════════════ -->
-###
-
-<div align="center">
-
-`~/contributions --3d`
-
-<img src="./profile-3d-contrib/profile-night-green.svg" width="100%" alt="3D contribution graph" />
-
-</div>
