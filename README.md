@@ -39,51 +39,21 @@ care      · minimalist design & working code
 
 `~/stack`
 
-![TypeScript](https://img.shields.io/badge/TypeScript-0d1117?style=flat-square&logo=typescript&logoColor=8A949E)
-![JavaScript](https://img.shields.io/badge/JavaScript-0d1117?style=flat-square&logo=javascript&logoColor=8A949E)
-![Next.js](https://img.shields.io/badge/Next.js-0d1117?style=flat-square&logo=nextdotjs&logoColor=8A949E)
-![React](https://img.shields.io/badge/React-0d1117?style=flat-square&logo=react&logoColor=8A949E)
-![Node.js](https://img.shields.io/badge/Node.js-0d1117?style=flat-square&logo=nodedotjs&logoColor=8A949E)
-![Tailwind](https://img.shields.io/badge/Tailwind-0d1117?style=flat-square&logo=tailwindcss&logoColor=8A949E)
+![HTML5](https://img.shields.io/badge/HTML-0d1117?style=flat-square&logo=html5&logoColor=8A949E)
+![CSS3](https://img.shields.io/badge/CSS-0d1117?style=flat-square&logo=css3&logoColor=8A949E)
+![Python](https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python&logoColor=8A949E)
+![Pandas](https://img.shields.io/badge/Pandas-0d1117?style=flat-square&logo=pandas&logoColor=8A949E)
+![PySpark](https://img.shields.io/badge/PySpark-0d1117?style=flat-square&logo=apachespark&logoColor=8A949E)
+![SQL](https://img.shields.io/badge/SQL-0d1117?style=flat-square&logo=databricks&logoColor=8A949E)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0d1117?style=flat-square&logo=postgresql&logoColor=8A949E)
 ![Git](https://img.shields.io/badge/Git-0d1117?style=flat-square&logo=git&logoColor=8A949E)
 ![Vercel](https://img.shields.io/badge/Vercel-0d1117?style=flat-square&logo=vercel&logoColor=8A949E)
+![Supabase](https://img.shields.io/badge/Supabase-0d1117?style=flat-square&logo=supabase&logoColor=8A949E)
+![Neon](https://img.shields.io/badge/Neon-0d1117?style=flat-square&logo=neon&logoColor=8A949E)
+![GCP](https://img.shields.io/badge/GCP-0d1117?style=flat-square&logo=googlecloud&logoColor=8A949E)
+![AWS](https://img.shields.io/badge/AWS-0d1117?style=flat-square&logo=amazonwebservices&logoColor=8A949E)
 
 </div>
-
-<!-- ═══════════════════════ ROW 3 · FEATURED ═══════════════════════ -->
-###
-
-<div align="center">
-
-`~/featured`
-
-</div>
-
-<table width="100%">
-<tr>
-<td width="50%" valign="top">
-
-**PieOS — portfolio as an OS**
-`Astro · TypeScript · Tailwind`
-
-A portfolio built as a working desktop OS. Draggable, resizable windows; dock magnification; terminal; games.
-
-[`repo ↗`](https://github.com/Thananontnc/thx-tnc-Portfolio-V.2)
-
-</td>
-<td width="50%" valign="top">
-
-**Simba Spark — senior project**
-`Next.js · Server Actions · ABAC`
-
-Full-stack app with role-based access, admin dashboards, and a minimalist redesigned UI.
-
-`in progress`
-
-</td>
-</tr>
-</table>
 
 <!-- ═══════════════════════ FOOTER ═══════════════════════ -->
 <div align="center">
