@@ -1,43 +1,41 @@
-<!-- ═══════════════════════ ROW 1 · HERO + INTRO ═══════════════════════ -->
+<!-- ═══════════════════════ NEOFETCH HEADER ═══════════════════════ -->
 <table width="100%">
 <tr>
-<td width="44%" align="center" valign="middle">
+<td width="42%" align="center" valign="top">
 
-<img src="./hero-terminal.png" width="330" alt="thananon — 3D terminal portrait" />
+<img src="./hero-terminal.png" width="300" alt="thananon — 3D terminal portrait" />
 
 </td>
-<td width="56%" valign="middle">
+<td width="58%" valign="top">
 
+```console
+pie@github ~ % whoami
+───────────────────────────────
+ user    Thananon "Pie" Chounudom
+ role    Full-stack & Data Engineer
+ host    Thailand
+ shell   Next.js · React · Python
+ uptime  building things that feel good
+───────────────────────────────
+ build   Simba Spark — Next.js senior project
+ learn   system design · ABAC · data pipelines
+ care    minimalist UI & clean architecture
+───────────────────────────────
+ email   thananonza123@gmail.com
+ github  github.com/Thananontnc
 ```
-> whoami
-```
-# Thananon
-
-**Full-stack developer · Thailand** 🇹🇭
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=14&pause=1200&color=8A949E&width=380&lines=Next.js+%2F+React+%2F+TypeScript;minimalist+UI+%2B+clean+architecture;ship+it%2C+then+make+it+beautiful" alt="tagline" />
-
-```
-build     · Simba Spark — Next.js senior project
-learning  · system design · ABAC · clean UI
-care      · minimalist design & working code
-```
-
-<a href="https://github.com/Thananontnc/thx-tnc-Portfolio-V.2"><img src="https://img.shields.io/badge/portfolio-8A949E?style=flat-square&logo=vercel&logoColor=0d1117" alt="portfolio" /></a>
-<a href="mailto:thananonza123@gmail.com"><img src="https://img.shields.io/badge/email-0d1117?style=flat-square&logo=gmail&logoColor=8A949E" alt="email" /></a>
-<a href="https://github.com/Thananontnc"><img src="https://img.shields.io/badge/github-0d1117?style=flat-square&logo=github&logoColor=8A949E" alt="github" /></a>
-<img src="https://komarev.com/ghpvc/?username=Thananontnc&label=visitors&color=0d1117&style=flat-square" alt="visitors" />
 
 </td>
 </tr>
 </table>
 
-<!-- ═══════════════════════ ROW 2 · STACK ═══════════════════════ -->
-###
+<!-- ═══════════════════════ STACK ═══════════════════════ -->
+
+```console
+pie@github ~ % ls ~/stack
+```
 
 <div align="center">
-
-`~/stack`
 
 ![HTML5](https://img.shields.io/badge/HTML-0d1117?style=flat-square&logo=html5&logoColor=8A949E)
 ![CSS3](https://img.shields.io/badge/CSS-0d1117?style=flat-square&logo=css3&logoColor=8A949E)
@@ -55,9 +53,24 @@ care      · minimalist design & working code
 
 </div>
 
-<!-- ═══════════════════════ FOOTER ═══════════════════════ -->
+<!-- ═══════════════════════ CONTACT ═══════════════════════ -->
+
+```console
+pie@github ~ % ./contact --open
+> opening links...
+```
+
 <div align="center">
 
-<sub>`ship it, then make it beautiful`</sub>
+<a href="https://github.com/Thananontnc/thx-tnc-Portfolio-V.2"><img src="https://img.shields.io/badge/portfolio-8A949E?style=flat-square&logo=vercel&logoColor=0d1117" alt="portfolio" /></a>
+<a href="mailto:thananonza123@gmail.com"><img src="https://img.shields.io/badge/email-0d1117?style=flat-square&logo=gmail&logoColor=8A949E" alt="email" /></a>
+<a href="https://github.com/Thananontnc"><img src="https://img.shields.io/badge/github-0d1117?style=flat-square&logo=github&logoColor=8A949E" alt="github" /></a>
+<img src="https://komarev.com/ghpvc/?username=Thananontnc&label=visitors&color=0d1117&style=flat-square" alt="visitors" />
 
 </div>
+
+<br/>
+
+```console
+pie@github ~ % _
+```
