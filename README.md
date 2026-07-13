@@ -62,7 +62,7 @@ pie@github ~ % ./contact --open
 
 <div align="center">
 
-<a href="https://github.com/Thananontnc/thx-tnc-Portfolio-V.2"><img src="https://img.shields.io/badge/portfolio-8A949E?style=flat-square&logo=vercel&logoColor=0d1117" alt="portfolio" /></a>
+<a href="https://thxtnc.vercel.app"><img src="https://img.shields.io/badge/portfolio-8A949E?style=flat-square&logo=vercel&logoColor=0d1117" alt="portfolio" /></a>
 <a href="mailto:thananonza123@gmail.com"><img src="https://img.shields.io/badge/email-0d1117?style=flat-square&logo=gmail&logoColor=8A949E" alt="email" /></a>
 <a href="https://github.com/Thananontnc"><img src="https://img.shields.io/badge/github-0d1117?style=flat-square&logo=github&logoColor=8A949E" alt="github" /></a>
 <img src="https://komarev.com/ghpvc/?username=Thananontnc&label=visitors&color=0d1117&style=flat-square" alt="visitors" />
