@@ -12,7 +12,7 @@
 pie@github ~ % whoami
 ───────────────────────────────
  user    Thananon "Pie" Chounudom
- role    Full-stack & Data Engineer
+ role    Data Engineer
  host    Thailand
  shell   Next.js · Python · SQL · GCP · AWS
  uptime  building things that feel good
