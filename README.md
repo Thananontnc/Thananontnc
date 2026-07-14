@@ -14,14 +14,14 @@ pie@github ~ % whoami
  user    Thananon "Pie" Chounudom
  role    Full-stack & Data Engineer
  host    Thailand
- shell   Next.js · React · Python
+ shell   Next.js · Python · SQL · GCP · AWS
  uptime  building things that feel good
 ───────────────────────────────
  build   Personal Portfolio Analytics Pipeline - Personal Project
  learn   system design · ABAC · data pipelines
  care    minimalist UI & clean architecture
 ───────────────────────────────
- email   thananonza123@gmail.com
+ email   chounudomthananon@gmail.com
  github  github.com/Thananontnc
 ```
 
