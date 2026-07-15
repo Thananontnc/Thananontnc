@@ -10,17 +10,17 @@
 
 ```console
 pie@github ~ % whoami
-───────────────────────────────
+─────────────────────────────────────────────────────────────────
  user    Thananon "Pie" Chounudom
  role    Data Engineer
  host    Thailand
  shell   Python · SQL · GCP · AWS · Airflow · Pandas · PySpark
  uptime  building things that feel good
-───────────────────────────────
+─────────────────────────────────────────────────────────────────
  build   Personal Portfolio Analytics Pipeline - Personal Project
  learn   system design · ABAC · data pipelines
  care    minimalist UI & clean architecture
-───────────────────────────────
+─────────────────────────────────────────────────────────────────
  email   chounudomthananon@gmail.com
  github  github.com/Thananontnc
 ```
