@@ -14,7 +14,7 @@ pie@github ~ % whoami
  user    Thananon "Pie" Chounudom
  role    Data Engineer
  host    Thailand
- shell   Next.js · Python · SQL · GCP · AWS
+ shell   Python · SQL · GCP · AWS · Airflow · Pandas · PySpark
  uptime  building things that feel good
 ───────────────────────────────
  build   Personal Portfolio Analytics Pipeline - Personal Project
