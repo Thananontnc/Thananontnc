@@ -53,6 +53,20 @@ pie@github ~ % ls ~/stack
 
 </div>
 
+<!-- ═══════════════════════ ACTIVITY (GitSkins) ═══════════════════════ -->
+
+```console
+pie@github ~ % gitskins --stats --heatmap
+```
+
+<div align="center">
+
+<a href="https://gitskins.com"><img src="https://www.gitskins.com/api/section/stats?username=Thananontnc&theme=github-dark&style=aura" width="100%" alt="GitHub stats" /></a>
+
+<a href="https://gitskins.com"><img src="https://www.gitskins.com/api/section/heatmap?username=Thananontnc&theme=github-dark&style=aura" width="100%" alt="contribution heatmap" /></a>
+
+</div>
+
 <!-- ═══════════════════════ CONTACT ═══════════════════════ -->
 
 ```console
