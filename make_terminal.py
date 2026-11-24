@@ -33,7 +33,7 @@ t, y = 0.3, 70
 t = prompt(y, "whoami", t)
 y += LH
 show(f'<text x="28" y="{y}" fill="{C["text"]}">Thananon <tspan fill="{C["orange"]}">"Pie"</tspan> Chounudom'
-     f'<tspan fill="{C["muted"]}">  ·  data engineer from Bangkok, Thailand</tspan></text>', t + 0.15)
+     f'<tspan fill="{C["muted"]}">  ·  I build data pipelines, ML models and the apps on top</tspan></text>', t + 0.15)
 t += 0.6
 y += LH + 14
 t = prompt(y, "neofetch", t)
@@ -46,13 +46,13 @@ show(f'<image x="28" y="{top}" width="168" height="210" href="data:image/png;bas
 info_x, key_w = 228, 84
 rows = [
     ("", None),
-    ("role", "Data Engineer"),
-    ("host", "Bangkok, Thailand"),
-    ("lang", "Python · SQL · PySpark"),
-    ("tools", "Airflow · Pandas · PostgreSQL"),
+    ("role", "Data Engineer · Bangkok, TH"),
+    ("data", "Airflow · PySpark · Pandas · SQL"),
+    ("ml", "prediction models · Jupyter · LLM apps"),
+    ("web", "Next.js · React · TypeScript · Node"),
     ("cloud", "GCP · AWS · Vercel · Supabase"),
+    ("also", "Swift/iOS · Java · Go · C on ESP32"),
     ("now", "Portfolio Analytics Pipeline"),
-    ("learn", "system design · data pipelines"),
 ]
 ry = top + 16
 show(f'<text x="{info_x}" y="{ry}"><tspan fill="{C["green"]}" font-weight="700">pie</tspan>'
@@ -72,6 +72,27 @@ show("".join(f'<rect x="{info_x + i*26}" y="{ry}" width="22" height="12" rx="2" 
 
 y = top + 210 + 36
 t += 0.5
+t = prompt(y, "ls ~/projects", t)
+projects = [
+    ("data", C["green"],  "superstore-etl-airflow-gcp"),
+    ("data", C["green"],  "real-estate-etl-airflow-gcp"),
+    ("data", C["green"],  "ecommerce-transaction-etl"),
+    ("ai",   C["purple"], "llm-resume-analyzer"),
+    ("ml",   C["purple"], "bank-churn-prediction"),
+    ("web",  C["blue"],   "simba-spark"),
+    ("web",  C["blue"],   "apartment-management"),
+    ("iot",  C["orange"], "esp32-homelab-monitor"),
+]
+t += 0.15
+for i, (tag, col, name) in enumerate(projects):
+    cx = 28 + (i % 2) * 420
+    if i % 2 == 0:
+        y += LH
+    show(f'<text x="{cx}" y="{y}"><tspan fill="{col}">[{tag:<4}]</tspan>'
+         f'<tspan fill="{C["text"]}" x="{cx + 70}">{esc(name)}/</tspan></text>', t)
+    t += 0.07
+y += LH + 14
+t += 0.4
 t = prompt(y, "cat contact.txt", t)
 y += LH
 show(f'<text x="28" y="{y}"><tspan fill="{C["muted"]}">web   </tspan><tspan fill="{C["blue"]}">thxtnc.vercel.app</tspan>'
