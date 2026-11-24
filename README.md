@@ -1,13 +1,10 @@
-<img src="./hero-terminal.png" align="left" width="140" alt="thananon — terminal portrait" />
+<div align="center">
 
-```console
-pie@github ~ % whoami
- user    Thananon "Pie" Chounudom
- role    Data Engineer · Thailand
- stack   Python · SQL · PySpark · Airflow · GCP · AWS
- now     Portfolio Analytics Pipeline
-```
+<a href="https://thxtnc.vercel.app"><img src="https://www.gitskins.com/api/section/hero?username=Thananontnc&theme=github-dark&style=aura" width="100%" alt="Thananon Chounudom" /></a>
 
-&nbsp;[portfolio](https://thxtnc.vercel.app) · [email](mailto:chounudomthananon@gmail.com)
+<img src="https://www.gitskins.com/api/section/stats?username=Thananontnc&theme=github-dark&style=aura" width="49%" align="top" alt="GitHub stats" />
+<img src="https://www.gitskins.com/api/section/stack?username=Thananontnc&theme=github-dark&style=aura" width="49%" align="top" alt="language stack" />
 
-<br clear="left" />
+<sub><a href="https://thxtnc.vercel.app">portfolio</a> · <a href="mailto:chounudomthananon@gmail.com">email</a></sub>
+
+</div>
