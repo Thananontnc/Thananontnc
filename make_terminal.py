@@ -33,7 +33,7 @@ t, y = 0.3, 70
 t = prompt(y, "whoami", t)
 y += LH
 show(f'<text x="28" y="{y}" fill="{C["text"]}">Thananon <tspan fill="{C["orange"]}">"Pie"</tspan> Chounudom'
-     f'<tspan fill="{C["muted"]}">  ·  I build data pipelines, ML models and the apps on top</tspan></text>', t + 0.15)
+     f'<tspan fill="{C["muted"]}">  ·  data pipelines · backend APIs · ESP32 builds</tspan></text>', t + 0.15)
 t += 0.6
 y += LH + 14
 t = prompt(y, "neofetch", t)
@@ -62,13 +62,12 @@ def icons_row(x, y, slugs, size=20, gap=14):
     return "".join(parts), x
 
 rows = [
-    ("role", "Data Engineer · Bangkok, TH"),
-    ("data", ["python", "apacheairflow", "apachespark", "pandas", "postgresql"]),
-    ("ml", (["jupyter", "r"], "prediction models · LLM apps")),
-    ("web", ["nextdotjs", "react", "typescript", "nodedotjs"]),
-    ("cloud", ["googlecloud", "amazonaws", "vercel", "supabase"]),
-    ("also", ["swift", "openjdk", "go", "c", "espressif"]),
-    ("now", "Portfolio Analytics Pipeline"),
+    ("role", "CS student · data & backend"),
+    ("edu", "Assumption University · class of 2027"),
+    ("exp", "Backend Dev Intern @ BiomassX · 2025"),
+    ("stack", ["python", "go", "typescript", "postgresql", "apacheairflow",
+               "googlebigquery", "docker", "googlecloud", "amazonaws"]),
+    ("now", "PieHawk · Wi-Fi auditing thesis"),
 ]
 ry = top + 16
 show(f'<text x="{info_x}" y="{ry}"><tspan fill="{C["green"]}" font-weight="700">pie</tspan>'
@@ -98,14 +97,10 @@ y = max(top + 210, ry + 12) + 36
 t += 0.5
 t = prompt(y, "ls ~/projects", t)
 projects = [
-    ("data", C["green"],  "superstore-etl-airflow-gcp"),
-    ("data", C["green"],  "real-estate-etl-airflow-gcp"),
-    ("data", C["green"],  "ecommerce-transaction-etl"),
-    ("ai",   C["purple"], "llm-resume-analyzer"),
-    ("ml",   C["purple"], "bank-churn-prediction"),
-    ("web",  C["blue"],   "simba-spark"),
-    ("web",  C["blue"],   "apartment-management"),
-    ("iot",  C["orange"], "esp32-homelab-monitor"),
+    ("web",  C["blue"],   "pieos"),
+    ("sec",  C["orange"], "piehawk"),
+    ("data", C["green"],  "ecommerce-etl-airflow-gcp"),
+    ("iot",  C["purple"], "durian-farm-iot"),
 ]
 t += 0.15
 for i, (tag, col, name) in enumerate(projects):
